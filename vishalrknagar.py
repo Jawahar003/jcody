@@ -1,2 +1,2 @@
-stl=input()
-print(stl+".")
+s=input()
+print(s+".")
